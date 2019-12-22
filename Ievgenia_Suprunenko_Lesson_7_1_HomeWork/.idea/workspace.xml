@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bce015cf-4aef-4d1b-9553-e177e07b27b4" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1V1lpBIoghGvjtGE6lG0S63ydn9" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="Ht1" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Ht2" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.TestTriangle">
+    <configuration name="TestDish" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ht2.TestDish" />
+      <module name="Ievgenia_Suprunenko_Lesson_7_1_HomeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ht2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestEmpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ht1.TestEmpl" />
+      <module name="Ievgenia_Suprunenko_Lesson_7_1_HomeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ht1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ht3.TestInteger" />
+      <module name="Ievgenia_Suprunenko_Lesson_7_1_HomeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ht3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPerson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ht1.TestPerson" />
+      <module name="Ievgenia_Suprunenko_Lesson_7_1_HomeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ht1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ht5.TestTriangle" />
+      <module name="Ievgenia_Suprunenko_Lesson_7_1_HomeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ht5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestTriangle" />
+        <item itemvalue="Application.TestInteger" />
+        <item itemvalue="Application.TestDish" />
+        <item itemvalue="Application.TestPerson" />
+        <item itemvalue="Application.TestEmpl" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bce015cf-4aef-4d1b-9553-e177e07b27b4" name="Default Changelist" comment="" />
+      <created>1576428662505</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576428662505</updated>
+    </task>
+    <servers />
+  </component>
+</project>
